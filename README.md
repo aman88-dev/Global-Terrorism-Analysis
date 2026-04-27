@@ -95,6 +95,6 @@ This project demonstrates how exploratory data analysis can extract meaningful i
 ---
 
 ## Author
--Aman Juyal 
--24CE- 13
--2472132
+- Aman Juyal 
+- 24CE- 13
+- 2472132
